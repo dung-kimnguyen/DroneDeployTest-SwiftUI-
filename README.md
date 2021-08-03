@@ -1,3 +1,4 @@
 # DroneDeployTest-SwiftUI
-MVVM architecture
-Xcode Version: Version 12.5.1 
+- No pod install required.
+- MVVM architecture.
+- Xcode Version: Version 12.5.1. 
