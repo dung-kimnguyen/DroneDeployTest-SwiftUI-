@@ -2,7 +2,7 @@
 //  DataModel.swift
 //  TakeHomeTest
 //
-//  Created by Nocero Beguhe on 8/3/21.
+//  Created by Dung Kim Nguyen on 8/3/21.
 //
 
 import Foundation

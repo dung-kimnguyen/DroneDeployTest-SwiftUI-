@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  TakeHomeTest
 //
-//  Created by Nocero Beguhe on 8/2/21.
+//  Created by Dung Kim Nguyen on 8/2/21.
 //
 
 import SwiftUI
